@@ -1,4 +1,4 @@
-# Bootcamp Angular Desafio 3 | Cronômetro de Exercícios
+# Bootcamp Angular Desafio 3 | Exercise Timer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.4.
 
